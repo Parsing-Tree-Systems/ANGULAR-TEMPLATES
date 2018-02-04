@@ -1,0 +1,43 @@
+.left-wrapper{
+    padding: 1em;
+    margin:1em;
+    min-height:80vh;
+    height: auto;
+    
+    text-align: center;
+    border:{
+        width: 0 1px 0 0;
+        style: solid;
+        color:#eee;
+    } 
+    .name{
+        font:{
+            size:2rem;
+            family: 'Roboto-Black';
+        }
+    }
+    .role{
+        font:{
+            family: 'Roboto-Medium';
+        }
+    }
+    .meet-socialize{
+        li{
+            display: inline-block;
+            vertical-align: top;
+            padding: 0 0.5rem 0 0;
+        }
+    }
+    .menu{
+        padding: 1rem;
+        border:{
+            width:1px 0;
+            color: primary;
+            style:solid;
+        }
+        a{
+            margin: 0 0 1rem;
+            display: block;
+        }
+    }
+}

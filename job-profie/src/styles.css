@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+@import "assets/css/fontawesome-all.min.css";
+
+@font-face{
+    src: url('assets/webfonts/Roboto/Roboto-Light.ttf');
+    font-family: 'Roboto-Light';
+}
+
+@font-face{
+    src: url('assets/webfonts/Roboto/Roboto-Medium.ttf');
+    font-family: 'Roboto-Medium';
+}
+
+@font-face{
+    src: url('assets/webfonts/Roboto/Roboto-Bold.ttf');
+    font-family: 'Roboto-Bold';
+}
+
+@font-face{
+    src: url('assets/webfonts/Roboto/Roboto-Black.ttf');
+    font-family: 'Roboto-Black';
+}
